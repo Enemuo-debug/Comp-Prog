@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\Competitive Programming\obj\Debug\net8.0\Competitive Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Competitive Programming\obj\Debug\net8.0\Competitive Programming.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Competitive Programming\obj\Debug\net8.0\Competitive Programming.AssemblyInfo.cs
+C:\Users\HP\Desktop\Competitive Programming\obj\Debug\net8.0\Competitive Programming.csproj.CoreCompileInputs.cache
